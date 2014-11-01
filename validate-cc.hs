@@ -1,4 +1,4 @@
-module Main where
+module CreditCardValidation where
 
 import Test.Hspec
 import Test.QuickCheck
