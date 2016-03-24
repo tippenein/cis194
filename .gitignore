@@ -1,4 +1,5 @@
 # trivial gitignore file
+.stack-work/
 .cabal-sandbox/
 cabal.sandbox.config
 cabal-dev/
